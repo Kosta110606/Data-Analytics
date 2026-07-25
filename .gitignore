@@ -21,7 +21,6 @@ build/
 *.ipynb_checkpoints
 
 # Data files (важно! не пушить данные)
-*.csv
 *.xlsx
 *.json
 *.pkl
